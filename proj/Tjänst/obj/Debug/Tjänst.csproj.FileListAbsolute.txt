@@ -1,0 +1,10 @@
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.Properties.Resources.resources
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.csproj.GenerateResource.cache
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.csproj.CoreCompileInputs.cache
+C:\Users\35850\source\repos\proj2\Tjänst\bin\Debug\Tjänst.exe.config
+C:\Users\35850\source\repos\proj2\Tjänst\bin\Debug\Tjänst.exe
+C:\Users\35850\source\repos\proj2\Tjänst\bin\Debug\Tjänst.pdb
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.exe
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.pdb
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.csprojAssemblyReference.cache
+C:\Users\35850\source\repos\proj2\Tjänst\obj\Debug\Tjänst.Stugtjänster.resources
