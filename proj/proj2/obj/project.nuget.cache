@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/kAR6hLVu+39hl0/xlsXQ4VgRbCQ1NW9q0gA92FZG2PfhRMef8LKYVeGz5rt4XYkYPBgpIB4JNc8YqRz/VM4A==",
+  "dgSpecHash": "tZHvA/ycPd/Ydi8/p4P9kMJErdoMBjgw91zcsA8yVjgYsOckdF4yaMMRipopPJT+kIYu5Pna1ZmH0w0ooIL6hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\proj2.csproj",
+  "projectFilePath": "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\proj2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\35850\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\35850\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.8\\microsoft.aspnetcore.jsonpatch.3.1.8.nupkg.sha512",

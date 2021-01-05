@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\proj2.csproj": {}
+    "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\proj2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\proj2.csproj": {
+    "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\proj2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\proj2.csproj",
+        "projectUniqueName": "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\proj2.csproj",
         "projectName": "proj2",
-        "projectPath": "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\proj2.csproj",
+        "projectPath": "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\proj2.csproj",
         "packagesPath": "C:\\Users\\35850\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\35850\\source\\repos\\proj2\\proj2\\obj\\",
+        "outputPath": "C:\\Users\\35850\\Documents\\GitHub\\test_clone2\\CabinService-Azure-ASP.NET\\proj\\proj2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\35850\\AppData\\Roaming\\NuGet\\NuGet.Config",
